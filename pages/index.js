@@ -5,13 +5,12 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Guido Offermans</title>
+        <title>Slothie Studio</title>
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>
-          Guido Offermans
-        </h1>
+        <h1 className={styles.title}>Slothie Studio</h1>
+        <h3 className={styles.subTitle}>🦥 Martina & Guido 🦥</h3>
       </main>
 
     </div>
